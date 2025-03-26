@@ -43,12 +43,12 @@ Ensure you have the following installed:
    ```
 3. **Start the backend server:**
    ```sh
-   cd server
-   node index.js
+   cd backend
+   node server.js
    ```
 4. **Start the frontend application:**
    ```sh
-   cd client
+   cd frontend
    npm start
    ```
 5. **Access the application in the browser:**
